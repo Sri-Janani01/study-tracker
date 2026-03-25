@@ -11,16 +11,6 @@
 
 ---
 
-## 📸 Preview
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
-
----
-
 ## ✨ Features
 
 - **User Selection** — Pick your profile on load, no login needed
