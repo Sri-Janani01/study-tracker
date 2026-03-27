@@ -1,4 +1,4 @@
-const BASE = 'http://localhost:3002/api';
+const BASE = 'https://study-tracker-1-li6o.onrender.com/api';
 
 export const api = {
     async getSessions(user = '') {
