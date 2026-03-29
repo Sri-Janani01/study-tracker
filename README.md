@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 **📁 Repository:** [github.com/Sri-Janani01/study-tracker](https://github.com/Sri-Janani01/study-tracker)
+
 **Live Demo:** https://sri-janani01.github.io/study-tracker/frontend/dist/index.html
 
 ---
